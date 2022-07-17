@@ -1,2 +1,3 @@
 Livros para ler: 
- - Clean Code
+ - Clean Code 
+ - Pai rico pai Pobre
